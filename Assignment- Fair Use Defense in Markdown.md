@@ -3,7 +3,7 @@ This is your major assignment for the Text section of this course. It will count
 
 #### Assignment details
 * 750 -1000 word document containing multiple Markdown formatting elements (see below)
-* Rough draft due for workshopping in class 9/20.
+* Rough draft due for workshopping in class ~~9/20~~ 9/22.
 * Optional draft due to Prof. Vee by 9/27 (11:59pm), as a link to anywhere (e.g., * shared StackEdit document).
 * Final version to be graded due 10/7 (11:59pm).
 * The Final version will be turned in as link on our blog to a .md file posted in a GitHub repo with at least two previous versions.
