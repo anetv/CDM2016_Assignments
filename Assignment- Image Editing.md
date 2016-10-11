@@ -14,7 +14,7 @@ For this assignment, I'm asking you to design three images according to these co
 
 * One must be made from scratch in your image editing program (with nothing but very minor insertions from outside images or sources), one must include a source photograph, and the third is totally open. 
 * One image should be funny and one image should be thought-provoking; the third is open. 
-* One image should be in the style of one of the historical design styles you read about in Lupton and Miller's _Graphic Design in America_. The other two images can be in any other style you choose. 
+* One image should be in the style of one of the historical design styles you read about in [Lupton and Miller's _Graphic Design in America_](https://pitt.box.com/s/2avp2bwszp97cwsa4lz3jibbk3sxcqfj). The other two images can be in any other style you choose. 
 
 Obviously, there will be overlap in the image requirements. So you might have a thought-provoking photograph that is in the Art Deco style, or a funny made-from-scratch image in your choice of style or a funny made-from-scratch image in the style of chromolithography. Your images can include text if you'd like, but they don't have to. 
 
