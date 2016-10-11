@@ -30,7 +30,7 @@ _Image 1: Advertisement for Pitt_: Altered photograph, thought-provoking, my own
 
 Statements about the work for 500-750 words......Statements about the work for 500-750 words......Statements about the work for 500-750 words......Statements about the work for 500-750 words......Statements about the work for 500-750 words......
 
-###### List of Sources_
+###### List of Sources
 _Image 1: Advertisement for Pitt_
 Photograph of the Cathedral of Learning. Taken with my iPhone 6, 10/10/16. Author's photo.
 Pitt Logo. Taken from [Pitt's website](https://www.pitt.edu/). Fair Use because this project is for educational purposes.
