@@ -5,7 +5,7 @@ This is your major assignment for the Web section of this course. It will count 
 * Website with at least 3 internally linked pages, each containing some text and image information about your tiny corner, and linked to the other two pages.
 * The site must be public and can be hosted on your Pitt webspace, Github Pages, or a private host. (See me if you don't want to make it public.)
 * Rough draft due for workshopping in class 10/13. (I don't have a deadline for an optional draft due to me for feedback this time, but feel free to ask me for feedback and in office hours.)
-* Final version to be graded due ~~10/20~~10/23 (11:59pm).
+* Final version to be graded due ~~10/20~~ ~~10/23~~ 10/25 (11:59pm).
 * The Final version will be turned in as a link to your website on our blog, with a ~2 sentence description of your site aimed at your peers in the class. Along with this public description of the content of your site, you will also turn in a "cover letter" meant for me (Prof. Vee). This ~300-500 word cover letter will serve as your explanation to me about the choices you made for your site: content, design, license, style elements. This "cover letter" can accompany your link on our public blog, or it can be linked from the blog post to your shared Pitt Box folder, which only you and I can see.
 
 #### Content
