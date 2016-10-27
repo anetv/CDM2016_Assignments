@@ -9,11 +9,11 @@ This is your major assignment for the Text section of this course. It will count
 * The Final version will be turned in as link on our blog to a .md file posted in a GitHub repo with at least two previous versions.
 
 #### Content
-For this assignment, I'm asking you to choose one remix or mashup and write a defense of what does with copyrighted material by using the Fair Use exceptions to U.S. Copyright law. You may choose the remix you already posted to the blog, or find a new one. I will assess your defense based on these criteria:
-Do you describe the remix's use of copyrighted material in detail?
-Did you cite specific aspects or definitions in [17 U.S. Code Chapter 1](https://www.law.cornell.edu/uscode/text/17/chapter-1)?
-Did you effectively address all four factors of [Fair Use](http://fairuse.stanford.edu/overview/fair-use/)?
-Does your defense offer a good persuasive argument that the remix should not be considered copyright infringement?
+For this assignment, I'm asking you to choose one remix or mashup and write a defense of what it does with copyrighted material by using the Fair Use exceptions to U.S. Copyright law. You may choose the remix you already posted to the blog, or find a new one. I will assess your defense based on these criteria:
+* Do you describe the remix's use of copyrighted material in detail?
+* Did you cite specific aspects or definitions in [17 U.S. Code Chapter 1](https://www.law.cornell.edu/uscode/text/17/chapter-1)?
+* Did you effectively address all four factors of [Fair Use](http://fairuse.stanford.edu/overview/fair-use/)?
+* Does your defense offer a good persuasive argument that the remix should not be considered copyright infringement?
 
 #### Form
 Because this is an assignment in Markdown, I will also be looking at the _way_ you write your defense, not just what you say. Specifically, I'll look for:
