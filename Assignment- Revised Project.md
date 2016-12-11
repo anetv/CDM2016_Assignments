@@ -36,7 +36,6 @@ I hope that this assignment will help you:
 * Explore more deeply one of the media and software programs you got a taste of earlier in the semester.
 * Help you get closer to executing your creative vision for a particular project.
 * Give you something to show off professionally.
-* Think about animation as a way to get across ideas.
 
 Good luck and come see me in class or office hours for feedback or questions on your work.
 
